@@ -1,0 +1,8 @@
+{
+  "name": "Zion Harvest International Church",
+  "description": "The official digital home of Zion Harvest International Church, Nairobi. A place of worship, community, and global impact.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
