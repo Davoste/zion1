@@ -4,7 +4,7 @@ import React from 'react';
 import img1 from '../src/assets/crusade.jpeg';
 import img2 from '../src/assets/service.jpeg';
 import img3 from '../src/assets/service1.jpeg';
-import img4 from '../srcassets/logozion.jpg';
+import img4 from '../src/assets/logozion.jpg';
 import img5 from '../src/assets/church.jpeg';
 import img6 from '../src/assets/pasi.jpeg';
 
