@@ -1,7 +1,7 @@
 
 import React, { useState } from 'react';
 import { Menu, X, Cross } from 'lucide-react';
-import logo from '../assets/logozion.png';
+import logo from '../src/assets/logozion.png';
 
 interface NavbarProps {
   activeTab: string;
