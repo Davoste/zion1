@@ -1,12 +1,12 @@
 import React from 'react';
 
 // Import local images
-import img1 from '../assets/crusade.jpeg';
-import img2 from '../assets/service.jpeg';
-import img3 from '../assets/service1.jpeg';
-import img4 from '../assets/logozion.jpg';
-import img5 from '../assets/church.jpeg';
-import img6 from '../assets/pasi.jpeg';
+import img1 from '../src/assets/crusade.jpeg';
+import img2 from '../src/assets/service.jpeg';
+import img3 from '../src/assets/service1.jpeg';
+import img4 from '../srcassets/logozion.jpg';
+import img5 from '../src/assets/church.jpeg';
+import img6 from '../src/assets/pasi.jpeg';
 
 const Gallery: React.FC = () => {
   const images = [
