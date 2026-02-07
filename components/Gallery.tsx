@@ -1,21 +1,13 @@
 import React from 'react';
 
-// Import local images
-import img1 from '../src/assets/crusade.jpeg';
-import img2 from '../src/assets/service.jpeg';
-import img3 from '../src/assets/service1.jpeg';
-import img4 from '../src/assets/logozion.jpg';
-import img5 from '../src/assets/church.jpeg';
-import img6 from '../src/assets/pasi.jpeg';
-
 const Gallery: React.FC = () => {
   const images = [
-    { url: img1, title: 'Community Fellowship' },
-    { url: img2, title: 'Sunday Worship' },
-    { url: img3, title: 'Youth Ministry' },
-    { url: img4, title: 'Global Impact' },
-    { url: img5, title: 'Zion Sanctuary' },
-    { url: img6, title: 'Leadership Meeting' }
+    { url: '/images/crusade.jpeg', title: 'Community Fellowship' },
+    { url: '/images/service.jpeg', title: 'Sunday Worship' },
+    { url: '/images/service1.jpeg', title: 'Youth Ministry' },
+    { url: '/images/logozion.jpg', title: 'Global Impact' },
+    { url: '/images/church.jpeg', title: 'Zion Sanctuary' },
+    { url: '/images/pasi.jpeg', title: 'Leadership Meeting' }
   ];
 
   return (
